@@ -54,13 +54,13 @@ public class Exercise
         return null;
     }
 
-    //Return the largest number from a list of numbers
+    //Return the smallest number from a list of numbers
     public BigDecimal smallest(List<BigDecimal> numbers)
     {
         return null;
     }
 
-    //Return the second largest number from a list of numbers
+    //Return the second smallest number from a list of numbers
     public BigDecimal secondSmallest(List<BigDecimal> numbers)
     {
         return null;
