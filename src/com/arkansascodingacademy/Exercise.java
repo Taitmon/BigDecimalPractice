@@ -18,7 +18,7 @@ public class Exercise
         return null;
     }
 
-    //Add the second number from the first and return the result
+    //Subtract the second number from the first and return the result
     public BigDecimal subtract(BigDecimal firstNumber, BigDecimal secondNumber)
     {
         return null;
